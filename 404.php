@@ -9,8 +9,8 @@
 
 get_header();
 
-	esc_html_e( 'Oops! That page can&rsquo;t be found.', 'basic-theme-boilerplate' );
-	esc_html_e( 'It looks like nothing was found at this location. Maybe try one of the links below or a search?', 'basic-theme-boilerplate' );
+	esc_html_e( 'Oops! That page can&rsquo;t be found.', THEME_TEXT_DOMAIN );
+	esc_html_e( 'It looks like nothing was found at this location. Maybe try one of the links below or a search?', THEME_TEXT_DOMAIN );
 	
 	get_search_form();
 
