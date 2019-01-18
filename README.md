@@ -1,1 +1,1 @@
-# basic-wordpress-template-boilerplate
+# Basic Wordpress theme boilerplate
