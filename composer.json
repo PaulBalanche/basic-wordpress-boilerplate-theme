@@ -1,9 +1,9 @@
 {
-    "name": "wpextend/basic-wordpress-theme-boilerplate",
+    "name": "wpextend/basic-wordpress-boilerplate-theme",
     "type": "wordpress-theme",
-    "description": "Basic Wordpress theme boilerplate",
+    "description": "Basic Wordpress boilerplate theme",
     "keywords": ["wordpress", "theme", "wpextend"],
-    "homepage": "https://github.com/PaulBalanche/basic-wordpress-theme-boilerplate",
+    "homepage": "https://github.com/PaulBalanche/Basic-Wordpress-boilerplate-theme",
     "license": "MIT",
     "authors": [
         {

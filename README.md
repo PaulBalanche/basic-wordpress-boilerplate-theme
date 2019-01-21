@@ -1,1 +1,1 @@
-# Basic Wordpress theme boilerplate
+# Basic Wordpress boilerplate theme, by WP Extend team
