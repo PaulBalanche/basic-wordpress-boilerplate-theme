@@ -1,5 +1,5 @@
 {
-    "name": "theme-boilerplate/basic-wordpress-theme-boilerplate",
+    "name": "wpextend/basic-wordpress-theme-boilerplate",
     "type": "wordpress-theme",
     "description": "Basic Wordpress theme boilerplate",
     "keywords": ["wordpress", "theme", "wpextend"],
