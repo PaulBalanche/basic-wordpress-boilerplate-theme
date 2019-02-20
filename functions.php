@@ -6,7 +6,14 @@
  */
 
 
+ /**
+  * Composer Autolad
+  *
+  */
+require_once( __DIR__ . '/vendor/autoload.php' );
+
  
+
 /**
  * Internationalization text domain
  * 
@@ -17,3 +24,11 @@ add_action( 'after_setup_theme', 'theme_text_domain_setup' );
 function theme_text_domain_setup(){
     load_theme_textdomain( THEME_TEXT_DOMAIN, get_template_directory() . '/languages' );
 }
+
+
+
+/**
+ * Load Timber
+ * 
+ */
+$timber = new Timber\Timber();

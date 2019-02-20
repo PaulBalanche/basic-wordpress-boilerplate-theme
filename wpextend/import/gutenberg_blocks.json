@@ -1,0 +1,20 @@
+[
+    {
+      "post_title": "Texte + image",
+      "post_name": "texte-image",
+      "post_excerpt": "",
+      "custom_data": {
+        "taxonomy": "Component",
+        "icon": "images-alt"
+      }
+    },
+    {
+      "post_title": "Slider",
+      "post_name": "slider",
+      "post_excerpt": "",
+      "custom_data": {
+        "taxonomy": "Component",
+        "icon": "slides"
+      }
+    }
+]

@@ -1,10 +1,11 @@
 {
     "name": "wpextend/basic-wordpress-boilerplate-theme",
-    "type": "wordpress-theme",
     "description": "Basic Wordpress boilerplate theme",
+    "version": "1.0.2",
+    "type": "wordpress-theme",
     "keywords": ["wordpress", "theme", "wpextend"],
     "homepage": "https://github.com/PaulBalanche/Basic-Wordpress-boilerplate-theme",
-    "license": "MIT",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Paul Balanche",
@@ -13,12 +14,11 @@
             "role": "Developer"
         }
     ],
-    "require": {
-        "php": ">=5.3.0"
+    "support": {
+        "email": "paul.balanche@gmail.com"
     },
-    "autoload": {
-        "psr-0": {
-            "Monolog": "src"
-        }
+    "require": {
+        "php": ">=7.0.0",
+        "timber/timber": "^1.9"
     }
 }
