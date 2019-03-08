@@ -28,7 +28,9 @@ function theme_text_domain_setup(){
 
 
 /**
- * Load Timber
+ * 1. Load Timber
+ * 2. Get Timber context or instance basic array
  * 
  */
 $timber = new Timber\Timber();
+$context = Timber\Timber::get_context();
