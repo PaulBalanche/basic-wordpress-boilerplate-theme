@@ -1,7 +1,7 @@
 {
     "name": "wpextend/basic-wordpress-boilerplate-theme",
     "description": "Basic Wordpress boilerplate theme",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "type": "wordpress-theme",
     "keywords": ["wordpress", "theme", "wpextend"],
     "homepage": "https://github.com/PaulBalanche/Basic-Wordpress-boilerplate-theme",

@@ -33,4 +33,8 @@ function theme_text_domain_setup(){
  * 
  */
 $timber = new Timber\Timber();
-$context = Timber\Timber::get_context();
+add_action('template_redirect', 'init_context');
+function init_context() {
+	global $context;
+	$context = Timber\Timber::get_context();
+}
